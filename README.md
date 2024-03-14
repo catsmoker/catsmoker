@@ -25,7 +25,7 @@
 </div>
 
 ###
-# snake
+#  contributions
 <img src="https://raw.githubusercontent.com/catsmoker/catsmoker/output/snake.svg" alt="Snake animation" />
 
 ###
