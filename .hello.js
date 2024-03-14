@@ -1,10 +1,11 @@
-// This script prints a greeting message to the console.
+// Define the greeting message in lowercase
+const greetingMessage = "hello";
 
-const greeting = "hello"; // Define the greeting message
-console.log(`${greeting} world!`); // Log the greeting message followed by "world" to the console
+// Log the greeting message followed by "world" to the console
+console.log(`${greetingMessage} world!`);
 
-// Define a constant variable representing a greeting message
+// Define a constant variable representing a greeting message in uppercase
 const GREETING_MESSAGE = "HELLO";
 
-// Now you can use GREETING_MESSAGE throughout your code
-console.log(GREETING_MESSAGE); // Output: HELLO
+// Log the uppercase greeting message to the console
+console.log(GREETING_MESSAGE);
