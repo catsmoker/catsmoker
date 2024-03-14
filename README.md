@@ -26,7 +26,7 @@
 
 ###
 #  contributions
-<img src="https://raw.githubusercontent.com/catsmoker/catsmoker/output/snake.svg" alt="contributions" />
+<img src="https://raw.githubusercontent.com/catsmoker/catsmoker/output/snake.yml" alt="contributions" />
 
 ###
 
