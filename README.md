@@ -26,8 +26,7 @@
 
 ###
 #  contributions
-<img src="https://raw.githubusercontent.com/catsmoker/catsmoker/output/snake.yml" alt="contributions" />
-
+![snake gif](https://github.com/catsmoker/catsmoker/blob/output/github-contribution-grid-snake.gif)
 ###
 
 # profile views
