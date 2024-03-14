@@ -71,6 +71,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
 </div>
-###
-<img width=325 align="center" src="https://github-readme-stats-catsmoker.vercel.app/api/top-langs/?username=catsmoker&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
