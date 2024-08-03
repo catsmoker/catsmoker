@@ -8,25 +8,25 @@
 
 <div align="left">
   <a href="https://www.whatsapp.com">
-    <img src="path-to-whatsapp-icon" width="60" height="60" alt="WhatsApp" />
+    <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="60" height="60" alt="WhatsApp" />
   </a>
   <a href="https://www.twitter.com">
-    <img src="path-to-twitter-icon" width="60" height="60" alt="Twitter" />
+    <img src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" width="60" height="60" alt="Twitter" />
   </a>
   <a href="https://www.discord.com">
-    <img src="path-to-discord-icon" width="60" height="60" alt="Discord" />
+    <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" width="60" height="60" alt="Discord" />
   </a>
   <a href="https://www.paypal.com">
-    <img src="path-to-paypal-icon" width="60" height="60" alt="PayPal" />
+    <img src="https://img.icons8.com/?size=100&id=13611&format=png&color=000000" width="60" height="60" alt="PayPal" />
   </a>
   <a href="https://www.spotify.com">
-    <img src="path-to-spotify-icon" width="60" height="60" alt="Spotify" />
+    <img src="https://img.icons8.com/?size=100&id=63316&format=png&color=000000" width="60" height="60" alt="Spotify" />
   </a>
   <a href="https://www.youtube.com">
-    <img src="path-to-youtube-icon" width="60" height="60" alt="YouTube" />
+    <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="60" height="60" alt="YouTube" />
   </a>
   <a href="https://www.telegram.org">
-    <img src="path-to-telegram-icon" width="60" height="60" alt="Telegram" />
+    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="60" height="60" alt="Telegram" />
   </a>
 </div>
 
