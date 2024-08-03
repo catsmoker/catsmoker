@@ -6,17 +6,30 @@
 
 ## Social Media
 
-<div align="center">
-  <ul class="social-links">
-    <li><a href="https://www.paypal.com/paypalme/boulhada08" style="background-image: url('paypal.svg');" target="_blank" title="PayPal.me" aria-label="PayPal.me">PayPal.me</a></li>
-    <li><a href="https://twitter.com/CATSM0KER" style="background-image: url('twitter.svg');" target="_blank" title="Twitter" aria-label="Twitter">Twitter</a></li>
-    <li><a href="https://github.com/catsmoker" style="background-image: url('github.svg');" target="_blank" title="GitHub" aria-label="GitHub">GitHub</a></li>
-    <li><a href="https://open.spotify.com/user/317obkq2nnwlyrhsmgdtxo6cdodm" style="background-image: url('spotify.svg');" target="_blank" title="Spotify" aria-label="Spotify">Spotify</a></li>
-    <li><a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1" style="background-image: url('youtube.svg');" target="_blank" title="YouTube" aria-label="YouTube">YouTube</a></li>
-    <li><a href="https://discord.com/invite/HQC5BwcXtS" target="_blank" style="background-image: url('discord.svg');" title="Discord" aria-label="Discord">Discord</a></li>
-    <li><a href="https://t.me/CATSM0KER" style="background-image: url('telegram.svg');" target="_blank" title="Telegram" aria-label="Telegram">Telegram</a></li>
-  </ul>
+<div align="left">
+  <a href="https://www.whatsapp.com">
+    <img src="path-to-whatsapp-icon" width="60" height="60" alt="WhatsApp" />
+  </a>
+  <a href="https://www.twitter.com">
+    <img src="path-to-twitter-icon" width="60" height="60" alt="Twitter" />
+  </a>
+  <a href="https://www.discord.com">
+    <img src="path-to-discord-icon" width="60" height="60" alt="Discord" />
+  </a>
+  <a href="https://www.paypal.com">
+    <img src="path-to-paypal-icon" width="60" height="60" alt="PayPal" />
+  </a>
+  <a href="https://www.spotify.com">
+    <img src="path-to-spotify-icon" width="60" height="60" alt="Spotify" />
+  </a>
+  <a href="https://www.youtube.com">
+    <img src="path-to-youtube-icon" width="60" height="60" alt="YouTube" />
+  </a>
+  <a href="https://www.telegram.org">
+    <img src="path-to-telegram-icon" width="60" height="60" alt="Telegram" />
+  </a>
 </div>
+
 
 ## Contributions
 
