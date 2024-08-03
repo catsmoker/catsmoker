@@ -8,31 +8,22 @@
 
 <div align="center">
   <ul class="social-links">
-                    <li><a href="https://www.paypal.com/paypalme/boulhada08" style="background-image: url('paypal.svg');" target="_blank" title="PayPal.me" aria-label="PayPal.me">PayPal.me</a></li>
-                    <li><a href="https://twitter.com/CATSM0KER" style="background-image: url('twitter.svg');" target="_blank" title="Twitter" aria-label="Twitter">Twitter</a></li>
-                    <li><a href="https://github.com/catsmoker" style="background-image: url('github.svg');" target="_blank" title="GitHub" aria-label="GitHub">GitHub</a></li>
-                    <li><a href="https://open.spotify.com/user/317obkq2nnwlyrhsmgdtxo6cdodm" style="background-image: url('spotify.svg');" target="_blank" title="Spotify" aria-label="Spotify">Spotify</a></li>
-                    <li><a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1" style="background-image: url('youtube.svg');" target="_blank" title="YouTube" aria-label="YouTube">YouTube</a></li>
-                    <li><a href="https://discord.com/invite/HQC5BwcXtS" target="_blank" style="background-image: url('discord.svg');" title="Discord" aria-label="Discord">Discord</a></li>
-                    <li><a href="https://t.me/CATSM0KER" style="background-image: url('telegram.svg');" target="_blank" title="Telegram" aria-label="Telegram">Telegram</a></li>
-                </ul>
+    <li><a href="https://www.paypal.com/paypalme/boulhada08" style="background-image: url('paypal.svg');" target="_blank" title="PayPal.me" aria-label="PayPal.me">PayPal.me</a></li>
+    <li><a href="https://twitter.com/CATSM0KER" style="background-image: url('twitter.svg');" target="_blank" title="Twitter" aria-label="Twitter">Twitter</a></li>
+    <li><a href="https://github.com/catsmoker" style="background-image: url('github.svg');" target="_blank" title="GitHub" aria-label="GitHub">GitHub</a></li>
+    <li><a href="https://open.spotify.com/user/317obkq2nnwlyrhsmgdtxo6cdodm" style="background-image: url('spotify.svg');" target="_blank" title="Spotify" aria-label="Spotify">Spotify</a></li>
+    <li><a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1" style="background-image: url('youtube.svg');" target="_blank" title="YouTube" aria-label="YouTube">YouTube</a></li>
+    <li><a href="https://discord.com/invite/HQC5BwcXtS" target="_blank" style="background-image: url('discord.svg');" title="Discord" aria-label="Discord">Discord</a></li>
+    <li><a href="https://t.me/CATSM0KER" style="background-image: url('telegram.svg');" target="_blank" title="Telegram" aria-label="Telegram">Telegram</a></li>
+  </ul>
 </div>
 
 ## Contributions
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## Profile Views
@@ -47,6 +38,4 @@
 
 ## Technologies
 
-
-
-2022
+<!-- Add your technology section here -->
