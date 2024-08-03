@@ -6,7 +6,7 @@
 
 ## Social Media
 
-<div align="left">
+<div align="center">
   <a href="https://web.whatsapp.com/send/?phone=212775804065&text&type=phone_number&app_absent=0">
     <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="60" height="60" alt="WhatsApp" />
   </a>
