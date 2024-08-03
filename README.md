@@ -7,25 +7,25 @@
 ## Social Media
 
 <div align="left">
-  <a href="https://www.whatsapp.com">
+  <a href="https://web.whatsapp.com/send/?phone=212775804065&text&type=phone_number&app_absent=0">
     <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" width="60" height="60" alt="WhatsApp" />
   </a>
-  <a href="https://www.twitter.com">
+  <a href="https://twitter.com/CATSM0KER">
     <img src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000" width="60" height="60" alt="Twitter" />
   </a>
-  <a href="https://www.discord.com">
+  <a href="https://discord.com/invite/HQC5BwcXtS">
     <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" width="60" height="60" alt="Discord" />
   </a>
-  <a href="https://www.paypal.com">
+  <a href="https://www.paypal.com/paypalme/boulhada08">
     <img src="https://img.icons8.com/?size=100&id=13611&format=png&color=000000" width="60" height="60" alt="PayPal" />
   </a>
-  <a href="https://www.spotify.com">
+  <a href="https://open.spotify.com/user/317obkq2nnwlyrhsmgdtxo6cdodm">
     <img src="https://img.icons8.com/?size=100&id=63316&format=png&color=000000" width="60" height="60" alt="Spotify" />
   </a>
-  <a href="https://www.youtube.com">
+  <a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1">
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="60" height="60" alt="YouTube" />
   </a>
-  <a href="https://www.telegram.org">
+  <a href="https://t.me/CATSM0KER">
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="60" height="60" alt="Telegram" />
   </a>
 </div>
