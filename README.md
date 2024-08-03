@@ -7,18 +7,15 @@
 ## Social Media
 
 <div align="center">
-  <a href="https://twitter.com/CATSM0KER" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter logo"  />
-  </a>
-  <a href="https://discord.gg/HQC5BwcXtS" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo"  />
-  </a>
-  <a href="https://t.me/CATSM0KER" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram logo"  />
-  </a>
+  <ul class="social-links">
+                    <li><a href="https://www.paypal.com/paypalme/boulhada08" style="background-image: url('catsmoker/images/paypal.svg');" target="_blank" title="PayPal.me" aria-label="PayPal.me">PayPal.me</a></li>
+                    <li><a href="https://twitter.com/CATSM0KER" style="background-image: url('catsmoker/images/twitter.svg');" target="_blank" title="Twitter" aria-label="Twitter">Twitter</a></li>
+                    <li><a href="https://github.com/catsmoker" style="background-image: url('catsmoker/images/github.svg');" target="_blank" title="GitHub" aria-label="GitHub">GitHub</a></li>
+                    <li><a href="https://open.spotify.com/user/317obkq2nnwlyrhsmgdtxo6cdodm" style="background-image: url('catsmoker/images/spotify.svg');" target="_blank" title="Spotify" aria-label="Spotify">Spotify</a></li>
+                    <li><a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1" style="background-image: url('catsmoker/images/youtube.svg');" target="_blank" title="YouTube" aria-label="YouTube">YouTube</a></li>
+                    <li><a href="https://discord.com/invite/HQC5BwcXtS" target="_blank" style="background-image: url('catsmoker/images/discord.svg');" title="Discord" aria-label="Discord">Discord</a></li>
+                    <li><a href="https://t.me/CATSM0KER" style="background-image: url('catsmoker/images/telegram.svg');" target="_blank" title="Telegram" aria-label="Telegram">Telegram</a></li>
+                </ul>
 </div>
 
 ## Contributions
