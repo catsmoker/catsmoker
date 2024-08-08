@@ -47,7 +47,6 @@
 <div align="center">
   <img height="500" width="100%" src="https://media.tenor.com/J2SMf2oW7XkAAAAi/cat-stare.gif" alt="Cat stare GIF">
 </div>
-________________________________________________________________________________________________________________________________________________________
 
 ## Technologies
 
