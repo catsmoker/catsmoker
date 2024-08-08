@@ -42,7 +42,7 @@
 ## Profile Views
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/J2SMf2oW7XkAAAAi/cat-stare.gif" alt="Cat stare GIF" />
+  <img height="200" src="https://media.tenor.com/J2SMf2oW7XkAAAAi/cat-stare.gif" alt="Cat stare GIF" autorun/>
 </div>
 
 <div align="center">
