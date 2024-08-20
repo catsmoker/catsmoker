@@ -19,9 +19,6 @@
   <a href="https://www.paypal.com/paypalme/boulhada08">
     <img src="https://img.icons8.com/?size=100&id=13611&format=png&color=000000" width="60" height="60" alt="PayPal" />
   </a>
-  <a href="https://open.spotify.com/user/317obkq2nnwlyrhsmgdtxo6cdodm">
-    <img src="https://img.icons8.com/?size=100&id=63316&format=png&color=000000" width="60" height="60" alt="Spotify" />
-  </a>
   <a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1">
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="60" height="60" alt="YouTube" />
   </a>
