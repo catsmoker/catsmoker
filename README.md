@@ -38,7 +38,7 @@
 
 ## Profile Views
 <div align="center">
-  <img src="https://profile-counter.glitch.me/catsmoker/count.svg?" alt="Profile views count" />
+  <img src="https://profile-counter.glitch.me/catsmoker/count.svg?"/>
 </div>
 
 <div align="center">
