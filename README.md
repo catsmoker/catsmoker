@@ -47,7 +47,7 @@
 
 ## Technologies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsmoker&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsmoker&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=50&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ## recently played music
