@@ -36,15 +36,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## Profile Views
-<div align="center">
-  <img src="https://profile-counter.glitch.me/catsmoker/count.svg?"/>
-</div>
-
-<div align="center">
-  <img height="500" width="100%" src="https://media.tenor.com/J2SMf2oW7XkAAAAi/cat-stare.gif" alt="Cat stare GIF">
-</div>
-
 ## Technologies
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsmoker&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=50&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
