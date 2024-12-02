@@ -25,7 +25,7 @@ Hey there! I'm Catsmoker, your go-to content creator who blends a love for progr
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="60" height="60" alt="Telegram" />
   </a>
   <a href="https://catsmoker.github.io/web/links">
-    <img src="https://img.icons8.com/?size=100&id=5zuVgEwv1rTz&format=png&color=000000" width="60" height="60" alt="Twitter" />
+    <img src="https://img.icons8.com/?size=100&id=5zuVgEwv1rTz&format=png&color=000000" width="60" height="60" alt="web" />
   </a>
 </div>
 
