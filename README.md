@@ -43,5 +43,7 @@ Hey there! I'm Catsmoker, your go-to content creator who blends a love for progr
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsmoker&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=50&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
+## 
+
 Join me on this journey as we discover new tools, solve coding challenges, and explore the ever-evolving world of technology. Don’t forget to hit that subscribe button and become a part of our growing community!
 
