@@ -40,7 +40,7 @@ Hey there! I'm Catsmoker, your go-to content creator who blends a love for progr
 
 ## Technologies
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Med_Boulhada&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=50&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=catsmoker&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=50&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ## 
