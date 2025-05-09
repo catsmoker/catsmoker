@@ -15,16 +15,16 @@ Hey there! I'm Catsmoker, your go-to content creator who blends a love for progr
   <a href="https://discord.com/invite/HQC5BwcXtS">
     <img src="https://img.icons8.com/?size=100&id=M725CLW4L7wE&format=png&color=000000" width="60" height="60" alt="Discord" />
   </a>
-  <a href="https://www.paypal.com/paypalme/boulhada08">
+  <a href="https://www.paypal.com/paypalme/catsmoker">
     <img src="https://img.icons8.com/?size=100&id=13611&format=png&color=000000" width="60" height="60" alt="PayPal" />
   </a>
-  <a href="https://www.youtube.com/@CATSM0KER?sub_confirmation=1">
+  <a href="https://www.youtube.com/@CATSMOKER?sub_confirmation=1">
     <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" width="60" height="60" alt="YouTube" />
   </a>
   <a href="https://t.me/CATSM0KER">
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="60" height="60" alt="Telegram" />
   </a>
-  <a href="https://catsmoker.github.io/web/links">
+  <a href="https://catsmoker.github.io/web/home.html">
     <img src="https://img.icons8.com/?size=100&id=5zuVgEwv1rTz&format=png&color=000000" width="60" height="60" alt="web" />
   </a>
 </div>
